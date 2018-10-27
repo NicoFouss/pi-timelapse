@@ -14,6 +14,9 @@ total_images: 10
 # The interval between captures (in seconds).
 interval: 1
 
+#using device that switching off the raspberry pi
+using_device: False
+
 # Whether to create an animated gif after capturing the time-lapse images.
 create_gif: False
 
